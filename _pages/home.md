@@ -1,0 +1,176 @@
+---
+permalink: /
+title: "Summer School Critical AI Literacy"
+author_profile: false
+sidebar:
+  - image: "/assets/images/Image-1.png"
+    image_alt: "Data center"
+    text: 
+toc: true
+toc_label: "About the summer school"
+toc_icon: "book"
+---
+
+Artificial intelligence is becoming deeply integrated into society. Recent advancements, such as ChatGPT, promise exciting new opportunities, yet they also raise pressing concerns about sustainability. Issues like widening inequality, perpetuation of stereotypes, and negative effects on labor markets and the environment have sparked important debates. Join us in this Summer School course to critically explore the impact of AI on sustainability. 
+ 
+Recent AI tools like ChatGPT are unlocking new possibilities, but they also bring growing concerns about sustainability, including rising inequality, stereotyping, and negative impacts on labor markets and the environment. While many are familiar with the environmental costs of fossil fuels or the ethical dilemmas of child labor, there is little widespread understanding of how AI might affect sustainability. This lack of awareness poses significant challenges, as illustrated by the following case: 
+The adoption of generative AI in organizations is expanding rapidly, whether for customer service, content creation, or visual campaign development. However, this increased usage also demands higher energy and water consumption to power these technologies. Additionally, questions arise about copyright violations when distributing content, as well as the reinforcement of harmful stereotypes in generated texts and images. How do these challenges align with an organization’s sustainability goals? And how can organizations navigate decisions when sustainability objectives conflict? 
+ 
+This Summer School is designed to empower (future) policymakers and AI users with the knowledge needed to make informed decisions about integrating AI into their sustainability strategies. Our goal is to foster Critical AI Literacy: the ability to understand the societal, ecological, and economic costs and limitations of AI, enabling thoughtful, sustainability-focused decision-making in organizational contexts. 
+
+Check out the [full schedule](#schedule) below. 
+
+
+## Schedule
+
+**Course planning and reading materials** 
+ 
+**Monday: 23 June** 
+ 
+10:00 to 11:00 Official opening  
+ 
+11:00 to 12:00 Welcome  
+Instructors and participants introduce themselves. 
+ 
+13:30 to 15:00 Course 1  
+Introduction to the main concepts (AI, sustainability, critical AI literacies) 
+Organization, code of conduct, expectations 
+ 
+15:30 to 17:00 Projects (instructions) 
+
+
+
+**Tuesday: 24 June** 
+ 
+9:00 to 10:30 Session 1 
+Understanding the basics of AI  
+ 
+11:00 to 12:00 Session 2 
+Resisting AI hype: Cognitive Science and AI 
+ 
+Reading and video material (you can choose if you prefer reading or prefer watching the videos): 
+ 
+Bender, E. M. (2024). Resisting Dehumanization in the Age of “AI”. Current Directions in Psychological Science, 33(2), 114-120. 
+Paper: https://journals.sagepub.com/doi/10.1177/09637214231217286 
+Video: https://www.youtube.com/watch?v=wuU-5rGPbyg  
+ 
+van Rooij, I., Guest, et al. (2024). Reclaiming AI as a theoretical tool for cognitive science. Computational Brain & Behavior, 7, 616–636. 
+Paper: https://doi.org/10.1007/s42113-024-00217-5 
+Video: https://www.youtube.com/watch?v=WrwNPVTjJpo 
+ 
+ 
+13:30 15:00 Session 3 
+What is sustainable AI? (AI for sustainability and the sustainability of AI) 
+ 
+ 
+Reading material: 
+ 
+Van Wynsberghe, A. (2021). Sustainable AI: AI for sustainability and the sustainability of AI. AI and Ethics, 1(3), 213–218. https://doi.org/10.1007/s43681-021-00043-6 
+ 
+ 
+15:30 to 17:00 Work in your project 
+
+
+
+**Wednesday: 25 June** 
+ 
+9:00 to 10:30 Session 1 
+AI and the global supply chain (social and environmental harms)  
+ 
+Reading material: 
+ 
+Valdivia, A. (2024). The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens. Information, Communication & Society, 1–17.  https://doi.org/10.1080/1369118X.2024.2420021 
+
+The cartography of generative AI 
+https://cartography-of-generative-ai.net/ 
+  
+Acid clouds projects 
+https://acidclouds.org/#evelyn_austin 
+ 
+ 
+11:00 to 12:00 Session 2 
+Can AI systems help human users to make sustainable decisions in a trustworthy and transparent manner? 
+  
+Reading material: 
+  
+Chater, N., & Loewenstein, G. (2023). The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray. Behavioral and Brain Sciences, 46, e147. https://doi.org/10.1017/S0140525X22002023 
+ 
+ 
+13:30 15:00 Vlog demo I 
+
+ 
+15:30 to 17:00 Vlog demo II 
+
+
+ 
+**Thursday: 26 June** 
+ 
+9:00 to 10:30 Session 1 
+Personal/professional values and align with AI use 
+Vlogs reflections 
+ 
+11:00 to 12:00  Session 2 
+Disalign AI with SDG and  
+ 
+Reading material:  
+ 
+ 
+13:30 15:00  Activity 
+Drawing the conflict/alignment between personal values, profession, and AI use 
+ 
+15:30 to 17:00 Work in your project 
+
+ 
+ 
+**Friday: 27 June** 
+ 
+9:00 to 10:30 Work in your project 
+ 
+11:00 to 12:00 Project presentation 
+ 
+13:30 to 15:00 Closing reflection 
+ 
+15:30 to 17:00 Official Closing 
+ 
+
+
+## Organizers
+
+<figure style="width: 80px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Suarez.jpg" alt="Marcela">
+</figure>
+
+**Dr. Marcela Suarez** Lecturer in Critical Intersectional Perspectives on AI 
+School of AI at Radboud University. 
+
+<figure style="width: 80px" class="right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kwisthout.png" alt="Johan">
+</figure>
+
+**Prof. Johan Kwisthout** Professor of Probabilistic Graphical Models at the Department of Human-centred Intelligent Systems
+
+<figure style="width: 80px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mueller.png" alt="Barbara">
+</figure>
+
+**Dr. Barbara Müller** is Associate Professor of Communication at the Behavioural Science Institute
+
+<figure style="width: 80px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Iris.webp" alt="Iris">
+</figure>
+
+**Prof. Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor and PI of the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group and Head of the Cognitive Science and AI department. 
+
+**
+
+
+<br>
+
+## License
+
+These materials are released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. The Summer School website is made with [Jekyll](https://jekyllrb.com) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes) theme.  
+The picture was taken by Marcela Suarez is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, and used with permission.
+
+## Contact
+
+For questions about the summer school please get in touch with [Marcela Suarez](mailto:marcela.suarezestrada@ru.nl).
