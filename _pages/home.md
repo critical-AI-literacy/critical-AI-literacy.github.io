@@ -26,49 +26,20 @@ Check out the [full schedule](#schedule) below.
 **Course planning and reading materials** 
  
 **Monday: 23 June** 
- 
-10:00 to 11:00 Official opening  
- 
-11:00 to 12:00 Welcome  
-Instructors and participants introduce themselves. 
- 
-13:30 to 15:00 Course 1  
-Introduction to the main concepts (AI, sustainability, critical AI literacies) 
-Organization, code of conduct, expectations 
- 
-15:30 to 17:00 Projects (instructions) 
+
+| 10:00–11:00 | Official opening || 
+| 11:00–12:00 |**Welcome** <br> Instructors and participants introduce themselves. |
+| 13:30–15:00 | **Course 1**  <br> Introduction to the main concepts (AI, sustainability, critical AI literacies). Organization, code of conduct, expectations |
+| 15:30–17:00 | Projects (instructions) 
 
 
 
 **Tuesday: 24 June** 
- 
-9:00 to 10:30 Session 1 
-Understanding the basics of AI  
- 
-11:00 to 12:00 Session 2 
-Resisting AI hype: Cognitive Science and AI 
- 
-Reading and video material (you can choose if you prefer reading or prefer watching the videos): 
- 
-Bender, E. M. (2024). Resisting Dehumanization in the Age of “AI”. Current Directions in Psychological Science, 33(2), 114-120. 
-Paper: https://journals.sagepub.com/doi/10.1177/09637214231217286 
-Video: https://www.youtube.com/watch?v=wuU-5rGPbyg  
- 
-van Rooij, I., Guest, et al. (2024). Reclaiming AI as a theoretical tool for cognitive science. Computational Brain & Behavior, 7, 616–636. 
-Paper: https://doi.org/10.1007/s42113-024-00217-5 
-Video: https://www.youtube.com/watch?v=WrwNPVTjJpo 
- 
- 
-13:30 15:00 Session 3 
-What is sustainable AI? (AI for sustainability and the sustainability of AI) 
- 
- 
-Reading material: 
- 
-Van Wynsberghe, A. (2021). Sustainable AI: AI for sustainability and the sustainability of AI. AI and Ethics, 1(3), 213–218. https://doi.org/10.1007/s43681-021-00043-6 
- 
- 
-15:30 to 17:00 Work in your project 
+
+| 9:00–10:30 | **Session 1** <br> Understanding the basics of AI 
+| 11:00–12:00 |**Session 2** <br> Resisting AI hype: Cognitive Science and AI <br> Reading and video material (you can choose if you prefer reading :page_facing_up: or prefer watching the videos :tv:): <br> Bender, E. M. (2024). Resisting Dehumanization in the Age of “AI”. Current Directions in Psychological Science, 33(2), 114-120 <br>[Paper :page_facing_up:](https://journals.sagepub.com/doi/10.1177/09637214231217286); [Video :tv:](https://www.youtube.com/watch?v=wuU-5rGPbyg) <br> van Rooij, I., Guest, et al. (2024). Reclaiming AI as a theoretical tool for cognitive science. Computational Brain & Behavior, 7, 616–636. [Paper :page_facing_up:](https://doi.org/10.1007/s42113-024-00217-5); [Video :tv:](https://www.youtube.com/watch?v=WrwNPVTjJpo)
+| 13:30–15:00 | **Session 3** <br>What is sustainable AI? (AI for sustainability and the sustainability of AI) <br> Reading material: <br> Van Wynsberghe, A. (2021). Sustainable AI: AI for sustainability and the sustainability of AI. AI and Ethics, 1(3), 213–218. [https://doi.org/10.1007/s43681-021-00043-6](https://doi.org/10.1007/s43681-021-00043-6)
+| 15:30–17:00 | Work on your project 
 
 
 
@@ -136,35 +107,13 @@ Drawing the conflict/alignment between personal values, profession, and AI use
 
 ## Organizers
 
-<figure style="width: 80px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Suarez.jpg" alt="Marcela">
-</figure>
 
-**Dr. Marcela Suarez** Lecturer in Critical Intersectional Perspectives on AI 
-School of AI at Radboud University. 
-
-<figure style="width: 80px" class="right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Kwisthout.png" alt="Johan">
-</figure>
-
-**Prof. Johan Kwisthout** Professor of Probabilistic Graphical Models at the Department of Human-centred Intelligent Systems
-
-<figure style="width: 80px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mueller.png" alt="Barbara">
-</figure>
-
-**Dr. Barbara Müller** is Associate Professor of Communication at the Behavioural Science Institute
-
-<figure style="width: 80px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Iris.webp" alt="Iris">
-</figure>
-
-**Prof. Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor and PI of the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group and Head of the Cognitive Science and AI department. 
-
-**
+![](/assets/images/Suarez.jpg) | | **Dr. Marcela Suarez** Lecturer in Critical Intersectional Perspectives on AI School of AI at Radboud University.| 
+![](/assets/images/Kwisthout.png) | | **Prof. Johan Kwisthout** Professor of Probabilistic Graphical Models at the Department of Human-centred Intelligent Systems. | 
+![](assets/images/Mueller.png) | | **Dr. Barbara Müller** is Associate Professor of Communication at the Behavioural Science Institute. | 
+![](/assets/images/Iris.webp) | | **Prof. Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor and PI of the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group and Head of the Cognitive Science and AI department. |
 
 
-<br>
 
 ## License
 
