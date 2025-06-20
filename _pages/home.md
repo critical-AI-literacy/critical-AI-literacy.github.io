@@ -45,63 +45,30 @@ Check out the [full schedule](#schedule) below.
 
 **Wednesday: 25 June** 
  
-9:00 to 10:30 Session 1 
-AI and the global supply chain (social and environmental harms)  
- 
-Reading material: 
- 
-Valdivia, A. (2024). The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens. Information, Communication & Society, 1–17.  https://doi.org/10.1080/1369118X.2024.2420021 
-
-The cartography of generative AI 
-https://cartography-of-generative-ai.net/ 
-  
-Acid clouds projects 
-https://acidclouds.org/#evelyn_austin 
- 
- 
-11:00 to 12:00 Session 2 
-Can AI systems help human users to make sustainable decisions in a trustworthy and transparent manner? 
-  
-Reading material: 
-  
-Chater, N., & Loewenstein, G. (2023). The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray. Behavioral and Brain Sciences, 46, e147. https://doi.org/10.1017/S0140525X22002023 
- 
- 
-13:30 15:00 Vlog demo I 
-
- 
-15:30 to 17:00 Vlog demo II 
-
+| 9:00–10:30 | **Session 1** <br> AI and the global supply chain (social and environmental harms) <br> Reading material: <br> Valdivia, A. (2024). The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens. Information, Communication & Society, 1–17.  [https://doi.org/10.1080/1369118X.2024.2420021](https://doi.org/10.1080/1369118X.2024.2420021) <br>[The cartography of generative AI](https://cartography-of-generative-ai.net) <br> [Acid clouds projects](https://acidclouds.org/#evelyn_austin)
+| 11:00 to 12:00 | **Session 2** <br> Can AI systems help human users to make sustainable decisions in a trustworthy and transparent manner? <br> Reading material: <br> Chater, N., & Loewenstein, G. (2023). The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray. Behavioral and Brain Sciences, 46, e147. [https://doi.org/10.1017/S0140525X22002023](https://doi.org/10.1017/S0140525X22002023)
+13:30–15:00 | Vlog demo I 
+15:30–17:00 | Vlog demo II 
 
  
 **Thursday: 26 June** 
  
-9:00 to 10:30 Session 1 
-Personal/professional values and align with AI use 
-Vlogs reflections 
- 
-11:00 to 12:00  Session 2 
-Disalign AI with SDG and  
- 
-Reading material:  
- 
- 
-13:30 15:00  Activity 
-Drawing the conflict/alignment between personal values, profession, and AI use 
- 
-15:30 to 17:00 Work in your project 
+| 9:00–10:30 | **Session 1** <br> Personal/professional values and align with AI use <br>Vlogs reflections 
+| 11:00–12:00 | **Session 2** <br>Disalign AI with SDG <br> Reading material:  
+| 13:30–15:00  | Activity <br> Drawing the conflict/alignment between personal values, profession, and AI use 
+|15:30–17:00 | Work on your project 
 
  
  
 **Friday: 27 June** 
  
-9:00 to 10:30 Work in your project 
+9:00–10:30 | Work in your project 
  
-11:00 to 12:00 Project presentation 
+11:00–12:00 | Project presentation 
  
-13:30 to 15:00 Closing reflection 
+13:30–15:00 | Closing reflection 
  
-15:30 to 17:00 Official Closing 
+15:30–17:00 | Official Closing 
  
 
 
