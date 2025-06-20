@@ -3,7 +3,7 @@ permalink: /
 title: "Summer School Critical AI Literacy"
 author_profile: false
 sidebar:
-  - image: "/assets/images/Image-1.png"
+  - image: "/assets/images/data-center.png"
     image_alt: "Data center"
     text: 
 toc: true
