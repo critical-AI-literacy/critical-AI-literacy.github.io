@@ -104,5 +104,4 @@ Questions for any LLM-pusher
 https://danmcquillan.org/ai_disabilty_q_and_a.html
 
 https://www.danmcquillan.org/questions_for_anthropic.html
- - 
- - 
+ 
