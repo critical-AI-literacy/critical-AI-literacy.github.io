@@ -28,17 +28,13 @@ toc_icon: "book"
 
 - Li, P., Yang, J., Islam, M. A., & Ren, S. (2023). Making AI Less “Thirsty”: Uncovering and Addressing the Secret Water Footprint of AI Models (Version 4). arXiv. <https://doi.org/10.48550/ARXIV.2304.03271>
 
-- More Perfect Union (Director). (2025, March 27). I Live 400 Yards From Mark Zuckerberg’s Massive Data Center [Video recording]. <https://www.youtube.com/watch?v=DGjj7wDYaiI>
-
 - Rachovitsa, A., & Johann, N. (2022). The Human Rights Implications of the Use of AI in the Digital Welfare State: Lessons Learned from the Dutch SyRI Case. Human Rights Law Review, 22(2), ngac010. <https://doi.org/10.1093/hrlr/ngac010>
-
-- Reuters. (2024, January 16). OpenAI CEO Sam Altman says at Davos future AI depends on energy breakthrough. The Economic Times. <https://economictimes.indiatimes.com/tech/technology/openai-ceo-sam-altman-says-at-davos-future-ai-depends-on-energy-breakthrough/articleshow/106906470.cms>
 
 - Ricaurte, P. (2022). Ethics for the majority world: AI and the question of violence at scale. Media, Culture & Society, 44(4), 726–745. <https://doi.org/10.1177/01634437221099612>
 
 - Valdivia, A. (2024). The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens. Information, Communication & Society, 1–17. <https://doi.org/10.1080/1369118X.2024.2420021>
 
-- Van Wynsberghe, A. (2021). Sustainable AI: AI for sustainability and the sustainability of AI. AI and Ethics, 1(3), 213–218. 
+- Van Wynsberghe, A. (2021). Sustainable AI: AI for sustainability and the sustainability of AI. AI and Ethics, 1(3), 213–218. <https://doi.org/10.1007/s43681-021-00043-6>
 
 - van Rooij, I., & Guest, O. (2025). Combining Psychology with Artificial Intelligence: What could possibly go wrong? PsyArXiv. <https://doi.org/10.31234/osf.io/aue4m_v1>
 
@@ -66,6 +62,8 @@ toc_icon: "book"
 
 - Penn, I., & Weise, K. (2024, October 16). Hungry for Energy, Amazon, Google and Microsoft Turn to Nuclear Power. The New York Times. <https://www.nytimes.com/2024/10/16/business/energy-environment/amazon-google-microsoft-nuclear-energy.html>
 
+- Reuters. (2024, January 16). OpenAI CEO Sam Altman says at Davos future AI depends on energy breakthrough. The Economic Times. <https://economictimes.indiatimes.com/tech/technology/openai-ceo-sam-altman-says-at-davos-future-ai-depends-on-energy-breakthrough/articleshow/106906470.cms>
+
 - Vynck, G. D. (2024, October 29). The AI boom may unleash a global surge in electronic waste. The Washington Post. <https://www.washingtonpost.com/technology/2024/10/29/ai-electronic-waste-recycling/>
 
 
@@ -84,7 +82,7 @@ toc_icon: "book"
 
 ## Case studies
 
-<https://www.myannahealth.com/>
+- <https://www.myannahealth.com/>
 
 
 ## Podcast
@@ -94,7 +92,9 @@ toc_icon: "book"
 
 ## Videos
 
-- Cognition. How you mind can amaze and betray you <br> <https://www.youtube.com/watch?v=R-sVnmmw6WY>
+- More Perfect Union (Director). (2025, March 27). I Live 400 Yards From Mark Zuckerberg’s Massive Data Center [Video recording]. <https://www.youtube.com/watch?v=DGjj7wDYaiI>
+
+- Cognition. How your mind can amaze and betray you <br> <https://www.youtube.com/watch?v=R-sVnmmw6WY>
 
 - Questions for any LLM-pusher <br> <https://danmcquillan.org/ai_disabilty_q_and_a.html> <br> <https://www.danmcquillan.org/questions_for_anthropic.html>
  
