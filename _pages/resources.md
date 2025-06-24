@@ -24,7 +24,7 @@ toc_icon: "book"
 
 - Casilli, A. A., Tubaro, P., Cornet, M., Ludec, C. L., Torres-Cierpe, J., & Braz, M. V. (2024). Global Inequalities in the Production of Artificial Intelligence: A Four-Country Study on Data Work (No. arXiv:2410.14230). arXiv. <https://doi.org/10.48550/arXiv.2410.14230>
   
-- Gebru, T., & Torres, É. P. (2024). The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence. First Monday, 29(4). https://doi.org/10.5210/fm.v29i4.13636
+- Gebru, T., & Torres, É. P. (2024). The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence. First Monday, 29(4). <https://doi.org/10.5210/fm.v29i4.13636>
   
 - Forbes, S. H., & Guest, O. (2025). To Improve Literacy, Improve Equality in Education, Not Large Language Models. Cognitive Science, 49(4), e70058. <https://doi.org/10.1111/cogs.70058>
 
