@@ -4,7 +4,6 @@ title: "Resources"
 author_profile: false
 ---
 
-
 ## Books
 - Berners-Lee, M. (2019). There is no Plan(et) B: A handbook for the make or break years. Cambridge University Press.
 
