@@ -16,7 +16,7 @@ toc_icon: "book"
 
 - Bainbridge, L. (1983). Ironies of automation. Automatica, 19(6), 775–779. <https://doi.org/10.1016/0005-1098(83)90046-8>
 
-- Bender, E. M. (2024). Resisting Dehumanization in the Age of “AI”. Current Directions in Psychological Science, 33(2), 114-120.  <https://doi.org/10.1177/09637214231217>
+- Bender, E. M. (2024). Resisting Dehumanization in the Age of “AI”. Current Directions in Psychological Science, 33(2), 114-120.  <https://doi.org/10.1177/09637214231217286>
 
 - Birhane, A. (2020). Algorithmic Colonization of Africa. SCRIPT-Ed, 17(2), 389–409. <https://doi.org/10.2966/scrip.170220.389>
 
@@ -72,21 +72,17 @@ toc_icon: "book"
 
 ## Blog posts
 
-- A Sustainability Manifesto for Higher Education. 
- <https://repository.ubn.ru.nl/handle/2066/301240>
+- A Sustainability Manifesto for Higher Education. <br> <https://repository.ubn.ru.nl/handle/2066/301240>
 
-- Critical AI literacy: Beyond hegemonic perspectives on sustainability
-<https://rcsc.substack.com/p/critical-ai-literacy-beyond-hegemonic>
+- Critical AI literacy: Beyond hegemonic perspectives on sustainability <br> <https://rcsc.substack.com/p/critical-ai-literacy-beyond-hegemonic>
 
-- Generative AI and Research Integrity. OSF. 
-<https://doi.org/10.31219/osf.io/2c48n>
+- Generative AI and Research Integrity. OSF. <br> <https://doi.org/10.31219/osf.io/2c48n>
 
 - Don’t believe the hype: AGI is far from inevitable. Radboud University. <https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable>
 
-- AI tools show biases in ranking job applicants’ names according to perceived race and gender
-<https://www.washington.edu/news/2024/10/31/ai-bias-resume-screening-race-gender/>	
+- AI tools show biases in ranking job applicants’ names according to perceived race and gender <br> <https://www.washington.edu/news/2024/10/31/ai-bias-resume-screening-race-gender/>	
 
-- Case studies
+## Case studies
 
 <https://www.myannahealth.com/>
 
@@ -96,15 +92,9 @@ toc_icon: "book"
 - <https://www.dair-institute.org/maiht3k/>
 
 
-Videos
+## Videos
 
-- Cognition. How you mind can amaze and betray you
+- Cognition. How you mind can amaze and betray you <br> <https://www.youtube.com/watch?v=R-sVnmmw6WY>
 
-<https://www.youtube.com/watch?v=R-sVnmmw6WY>
-
-- Questions for any LLM-pusher
-
-<https://danmcquillan.org/ai_disabilty_q_and_a.html>
-
-<https://www.danmcquillan.org/questions_for_anthropic.html>
+- Questions for any LLM-pusher <br> <https://danmcquillan.org/ai_disabilty_q_and_a.html> <br> <https://www.danmcquillan.org/questions_for_anthropic.html>
  
