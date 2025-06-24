@@ -54,7 +54,7 @@ Check out the [full schedule](#schedule) below.
 **Thursday: 26 June** 
  
 | 9:00–10:30 | **Session 1** <br> Personal/professional values and align with AI use <br>Vlogs reflections 
-| 11:00–12:00 | **Session 2** <br>Disalign AI with SDG <br> Reading material:  
+| 11:00–12:00 | **Session 2** <br>Disalign AI with SDG <br>   
 | 13:30–15:00  | Activity <br> Drawing the conflict/alignment between personal values, profession, and AI use 
 |15:30–17:00 | Work on your project 
 
