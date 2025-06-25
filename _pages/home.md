@@ -47,9 +47,8 @@ Check out the [full schedule](#schedule) below.
  
 | 9:00–10:30 | **Session 1** <br> AI and the global supply chain (social and environmental harms) <br> Reading material: <br> Valdivia, A. (2024). The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens. Information, Communication & Society, 1–17.  [https://doi.org/10.1080/1369118X.2024.2420021](https://doi.org/10.1080/1369118X.2024.2420021) <br>[The cartography of generative AI](https://cartography-of-generative-ai.net) <br> [Acid clouds projects](https://acidclouds.org/#evelyn_austin)
 | 11:00 to 12:00 | **Session 2** <br> Can AI systems help human users to make sustainable decisions in a trustworthy and transparent manner? <br> Reading material: <br> Chater, N., & Loewenstein, G. (2023). The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray. Behavioral and Brain Sciences, 46, e147. [https://doi.org/10.1017/S0140525X22002023](https://doi.org/10.1017/S0140525X22002023)
-13:30–15:00 | Vlog demo I 
-15:30–17:00 | Vlog demo II 
-
+13:30–15:00 | Vlog demo I (Please note that this event will take place in the Maria Montesori building 0.025.)
+15:30–17:00 | Vlog demo II (Please note that this event will take place in the Maria Montesori building 0.025.)
  
 **Thursday: 26 June** 
  
