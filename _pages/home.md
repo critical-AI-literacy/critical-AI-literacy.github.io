@@ -63,10 +63,12 @@ Check out the [full schedule](#schedule) below.
  
 9:00–10:30 | Work in your project 
  
-11:00–12:00 | Project presentation 
+11:00–12:00 | Reflections (individual)
  
-13:30–15:00 | Closing reflection 
- 
+13:15–14:45 | Project presentations
+
+14:45-15:00 | Online evaluation
+
 15:30–17:00 | Official Closing 
  
 
